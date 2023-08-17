@@ -4,18 +4,18 @@ This is a tool to enable importing from relative or absolute path across your py
 
 for example, in such a structure of project:
 
-project/
-├── module1/
-│   └── /
-│       ├── __init__.py
-│       └── mod1.py
-│		└── mod2.py
-├── module2/
-│   └── /
-│       ├── __init__.py
-│       └── mod3.py
-│		└── mod4.py
-└── app.py
+project/ <br />
+├── module1/ <br />
+│   └── / <br />
+│       ├── __init__.py <br />
+│       └── mod1.py <br />
+│		└── mod2.py <br />
+├── module2/ <br />
+│   └── / <br />
+│       ├── __init__.py <br />
+│       └── mod3.py <br />
+│		└── mod4.py <br />
+└── app.py<br />
 
 In mod1.py, you can do
 ```
